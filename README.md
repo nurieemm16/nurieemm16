@@ -29,9 +29,6 @@ Welcome to my Github personal account, where I develop personal projects and lea
       <p>The ultimate destination for finding GIFs of all your favorite themes</p>
     </div>                                                                          
   </td>
-
-    </div>                                                                          
-  </td>
 </table>
 
 <!--
