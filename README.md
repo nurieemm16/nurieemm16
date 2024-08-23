@@ -5,10 +5,11 @@
 Welcome to my Github personal account, where I develop personal projects and learn new things.
 
 ## About me:
-- 💻 I love creating websites, from the API to the client, stay tuned for updates! 
 - 🧪 I’m currently working as a Frontend developer on The Corners
-- 🌱 I'm currently learning Typescript and improving my React skills
+- 💻 I enjoy creating interactive, dynamic, and accessible websites for everyone. Stay tuned for updates! 
+- 🌱 I'm currently learning React. Next stop Typescript!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nuria-marzo)
+
 <!-- - ↗️ I'm looking to work as a Frontend Developer or QA Engineer -->
 
 <!--
@@ -17,7 +18,6 @@ Welcome to my Github personal account, where I develop personal projects and lea
 -->
 
 ## Projects
-
 
 <table>
   <td width="50%">
