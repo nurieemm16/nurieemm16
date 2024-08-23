@@ -20,7 +20,7 @@ Welcome to my Github personal account, where I develop personal projects and lea
 ## Projects
 
 <table>
-  <td width="50%">
+  <td width="100%">
     <h3 align="center">Gif Expert App</h3>
     <div align="center">
       <a href="https://github.com/nurieemm16/GifExpertApp.git" target="_blank">
