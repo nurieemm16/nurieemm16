@@ -5,16 +5,15 @@
 Welcome to my Github personal account, where I develop personal projects and learn new things.
 
 ## About me:
-- 🧪 I’m currently working as a Frontend developer on The Corners
-- 💻 I enjoy creating interactive, dynamic, and accessible websites for everyone. Stay tuned for updates! 
-- 🌱 I'm currently learning React. Next stop Typescript!
+- 🧪 I’m currently working as a QA Engineer on OmniAccess
+- 💻 "I enjoy creating interactive, dynamic, and accessible websites for everyone, while ensuring quality and usability as a QA Engineer. Stay tuned for updates!
+- 🌱 I'm currently learning Typescript!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nuria-marzo)
 
 <!-- - ↗️ I'm looking to work as a Frontend Developer or QA Engineer -->
 
 <!--
 - 👯 I’m looking to collaborate on generative AI projects
-- 🤔 I’m looking for help with [OpenAI API](https://openai.com/blog/openai-api)
 -->
 
 ## Projects
